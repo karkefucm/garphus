@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
-  t=4/7
+  t=3/5
   y=7*t
-  print(y*9)
+  print(y*2)
