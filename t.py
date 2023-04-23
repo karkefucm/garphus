@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
-  t=4/8
-  y=2*t
+  t=2/7
+  y=4*t
   print(y*8)
