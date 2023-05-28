@@ -4,4 +4,3 @@ if __name__=='__main__':
   y=8*t
   print(y*2)
 
-
